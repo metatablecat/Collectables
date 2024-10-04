@@ -1,0 +1,7 @@
+{
+	"globIgnorePaths": ["src/ReferenceBuilder"],
+	"name": "Collectables",
+	"tree": {
+		"$path": "src"
+	}
+}
